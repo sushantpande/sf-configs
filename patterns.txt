@@ -1,0 +1,1 @@
+"POSSIBLE BREAK-IN ATTEMPT,Invalid user,upstream server temporarily disabled while reading response header from upstream,upstream prematurely closed connection while reading response header from upstream,upstream server temporarily disabled while connecting to upstream,upstream timed out,session closed for user,session opened for user,DHCPACK from,DHCPREQUEST on"
